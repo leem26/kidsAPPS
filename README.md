@@ -1,2 +1,3 @@
-# mmlee
-Personal website of Matthew M. Lee
+# kidsAPPS
+
+This is the codebase for the Kids APPS study site
