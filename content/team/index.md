@@ -23,7 +23,7 @@ title: About the study team
 
 <div style="width: 130%;">
 <div style="width: 25%; height: 400px; float: left; margin-right: 5%;"> 
-<br><br><br><br>
+<br><br>
 <img src="/img/headshot-rmozaffarian.png">
 </div>
 <div style="margin-left: 10%; height: 400px;"> 
@@ -37,12 +37,44 @@ Becky earned her Master of Science degree in Food Policy and Applied Nutrition f
 </div>
 </div>
 
+<!-- Jasmine -->
+
+<div style="width: 130%;">
+<div style="width: 25%; height: 350px; float: left; margin-right: 5%;"> 
+<br>
+<img src="/img/headshot-jnorris.png"/>
+</div>
+<div style="margin-left: 10%; height: 350px; "> 
+<span style="font-family:Metropolis-SB">Jasmine Norris, RD</span>
+
+Jasmine is an MPH candidate in the Nutrition Department at Harvard T.H. Chan School of Public Health. She is a Research Assistant with the Kids APPS project, focused on participant recruitment strategy and data collection.
+
+In 2017 Jasmine received her registration status as a dietitian in California, then worked primarily in school and community nutrition. Her area of interest in graduate school is in food system development and policy advocacy for school and child nutrition programs. In her free time, Jasmine enjoys contemporary and salsa dancing, and inventing culinary techniques to utilize food waste in home cooking.
+</div>
+</div>
+
+<!-- Kate -->
+
+<div style="width: 130%;">
+<div style="width: 25%; height: 350px; float: left; margin-right: 5%;"> 
+<br>
+<img src="/img/headshot-kadams.png"/>
+</div>
+<div style="margin-left: 10%; height: 350px; "> 
+<span style="font-family:Metropolis-SB">Kate Adams</span>
+
+Kate is a Master's of Public Health student in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. As a Research Assistant on the KIDS APPS project, she helps develop research protocols, supports parents in completing the research tasks, and assesses advertising on mobile devices.
+
+Before starting her master’s degree, Kate worked on subsidy contracts and food programs in early childhood education centers around Boston. Kate's interests revolve around food insecurity, sustainable sourcing and food waste strategy, and the food & beverage industry's role in planetary health and nutrition outcomes.
+</div>
+</div>
+
 
 <!-- Matt -->
 
 <div style="width: 130%;">
 <div style="width: 25%; height: 400px; float: left; margin-right: 5%;"> 
-<br><br><br><br>
+<br><br><br>
 <img src="/img/headshot-mlee.png"/>
 </div>
 <div style="margin-left: 10%; height: 400px; "> 
