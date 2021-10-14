@@ -5,7 +5,7 @@ draft: false
 excerpt: 
 layout: single
 subtitle: 
-title: Resources for Kids APPS Participants
+title: Resources for participants
 # links:
 # - icon: door-open
 #   icon_pack: fas
@@ -16,6 +16,17 @@ title: Resources for Kids APPS Participants
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
 ---
+
+<span style="font-family:Metropolis-SB">Participant consent form</span>
+
+The form below provides important information about participating in this research. You have the right to take your time in making decisions about participating in this research. If you have any questions about the research or any portion of this form, you can ask us at any time. If you decide to participate in this research you will be asked to sign this form. A copy of the signed form will be provided to you for your records. 
+
+- <a href="/pdf/consent.docx" target="_blank">Study consent form (will download a .docx file)</a>
+
+
+This study was reviewed and approved by the [Harvard University T.H. Chan School of Public Health Office of Regulatory Affairs and Research Compliance](https://www.hsph.harvard.edu/regulatory-affairs-and-research-compliance/)
+
+<br>
 
 <span style="font-family:Metropolis-SB">Guidelines for downloading and sending digital device data:</span>
 

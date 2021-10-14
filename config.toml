@@ -111,21 +111,26 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
+    [[menu.header]]
+    name = "Interested in Participating?"
+    title = "Interested"
+    url = "/interested/"
+    weight = 2
   [[menu.header]]
-    name = "Resources for Participants"
+    name = "Resources"
     title = "Resources for Participants"
     url = "/resources/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Study Team"
     title = "Study Team"
     url = "/team/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Contact Us!"
     title = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
