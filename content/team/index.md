@@ -17,7 +17,21 @@ title: About the study team
 #   url: https://github.com/apreshill/bakeoff
 ---
 
+<!-- Becky -->
 
+<div style="width: 130%; height: 400%">
+<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
+<img src="/img/headshot-ekenney.png">
+</div>
+<div style="margin-left: 10%; height: 400%;"> 
+<br>
+<span style="font-family:Metropolis-SB">Erica Kenney, ScD, MPH</span>
+
+Erica Kenney is an Assistant Professor of Public Health Nutrition in the Department of Nutrition at the Harvard T.H. Chan School of Public Health, where she serves as the director of the PhD program in Public Health Nutrition. Her work investigates how children’s environments can be feasibly changed to promote healthy eating habits through policy change and community action, with one line of her research focusing on how exposure to food marketing influences children's dietary intake and how the food marketing landscape is changing as children shift from traditional television to mobile devices.
+</div>
+</div>
+
+<br><br><br>
 
 <!-- Becky -->
 
