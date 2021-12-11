@@ -2,7 +2,6 @@
 author: Matthew Lee
 date: "2021-07-20"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It’s a design system that provides very small (which means fast) CSS modules that you can use in your HTML.
 layout: single
 subtitle: 
 title: About the study team
@@ -81,7 +80,7 @@ In 2017 Jasmine received her registration status as a dietitian in California, t
 <div style="margin-left: 10%; height: 400%; "> 
 <span style="font-family:Metropolis-SB">Kate Adams</span>
 
-Kate is a Master's of Public Health student in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. As a Research Assistant on the KIDS APPS project, she helps develop research protocols, supports parents in completing the research tasks, and assesses advertising on mobile devices.
+Kate is a Master's of Public Health student in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. As a Research Assistant on the KIDS APPS project, she helps develop research protocols, supports parents in completing the research tasks, and assesses advertising on mobile devices.
 
 Before starting her master’s degree, Kate worked on subsidy contracts and food programs in early childhood education centers around Boston. Kate's interests revolve around food insecurity, sustainable sourcing and food waste strategy, and the food & beverage industry's role in planetary health and nutrition outcomes.
 </div>
@@ -89,6 +88,25 @@ Before starting her master’s degree, Kate worked on subsidy contracts and food
 
 <br>
 <br><br><br>
+
+<!-- Kristine -->
+
+<div style="width: 130%;">
+<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
+<br><br>
+<img src="/img/headshot-kiross.png"/>
+<br><br><br>
+</div>
+<div style="margin-left: 10%; height: 400%; "> 
+<span style="font-family:Metropolis-SB">Kristine Kiross</span>
+
+Kristine is an MPH candidate in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. She is a Research Assistant on the KIDS APPS project focusing on data collection and assessing advertising on mobile devices. Kristine is from Berkeley, California and earned her bachelor's degree in International Liberal Studies with a concentration in sociology from Waseda University in Tokyo. Prior to starting graduate school, she worked as a marketing manager at a food-tech startup which creates nutritionally complete staple foods. Her areas of interest include maternal, infant and young child nutrition, food policy, nutritional epidemiology, planetary health, and nutrition education. Through her research she plans to develop methods to increase access to healthy foods for underserved populations both nationally and internationally. In her free time, she enjoys singing, dancing, hiking, swimming, and doing yoga.
+</div>
+</div>
+
+<br>
+<br><br><br>
+
 
 <!-- Matt -->
 
