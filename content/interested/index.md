@@ -14,7 +14,7 @@ title: Interested in participating?
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
 ---
-
+<!--
 <span style="font-family:Metropolis-SB">Interested in participating in the Kids APPS study?</span> You can read more about the study and what sort of involvement to expect below. 
 
 <br>
@@ -41,7 +41,7 @@ title: Interested in participating?
 
 <br><br><br>
 
-
+-->
 
 
 

@@ -379,7 +379,7 @@
 			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 57,
+				"buffer_size": 66,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -393,7 +393,7 @@
 						"characters": "\n"
 					},
 					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					8,
@@ -403,7 +403,7 @@
 						"characters": "."
 					},
 					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					11,
@@ -413,18 +413,9 @@
 						"characters": "sublime-project"
 					},
 					"DwAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
-		},
-		{
-			"file": "config.toml",
-			"settings":
-			{
-				"buffer_size": 5420,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
 		},
 		{
 			"file": "themes/hugo-apero/layouts/partials/head.html",
@@ -444,7 +435,7 @@
 						"characters": "\n\n"
 					},
 					"BQAAAMoEAAAAAAAAywQAAAAAAAAAAAAAywQAAAAAAADNBAAAAAAAAAAAAADNBAAAAAAAAM4EAAAAAAAAAAAAAM4EAAAAAAAA0AQAAAAAAAAAAAAAywQAAAAAAADLBAAAAAAAAAIAAAAgIA",
-					"AQAAAAAAAAABAAAAygQAAAAAAADKBAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKBAAAAAAAAMoEAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					12,
@@ -452,7 +443,7 @@
 					"paste",
 					null,
 					"AQAAAM4EAAAAAAAABQYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAzgQAAAAAAADOBAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOBAAAAAAAAM4EAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					20,
@@ -460,7 +451,7 @@
 					"indent",
 					null,
 					"BwAAAAQFAAAAAAAABgUAAAAAAAAAAAAAXQUAAAAAAABfBQAAAAAAAAAAAABoBQAAAAAAAGoFAAAAAAAAAAAAAJcFAAAAAAAAmQUAAAAAAAAAAAAAxwUAAAAAAADJBQAAAAAAAAAAAADkBQAAAAAAAOYFAAAAAAAAAAAAAAgGAAAAAAAACgYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQYAAAAAAAAEBQAAAAAAAAAAAAAAAAAA"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFBgAAAAAAAAQFAAAAAAAAAAAAAAAAAAA"
 				]
 			]
 		},
@@ -480,10 +471,7 @@
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
-			},
-			"undo_stack":
-			[
-			]
+			}
 		}
 	],
 	"build_system": "",
@@ -1468,18 +1456,9 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/matthewlee/mmlee",
-		"/Users/matthewlee/mmlee/content",
-		"/Users/matthewlee/mmlee/themes",
-		"/Users/matthewlee/mmlee/themes/hugo-apero",
-		"/Users/matthewlee/mmlee/themes/hugo-apero/layouts",
-		"/Users/matthewlee/mmlee/themes/hugo-apero/layouts/_default",
-		"/Users/matthewlee/mmlee/themes/hugo-apero/layouts/partials"
-	],
 	"file_history":
 	[
+		"/Users/matthewlee/kidsAPPS/config.toml",
 		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/run_NFACT_analysis.Rout",
 		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/R/clean_data.R",
 		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/DESCRIPTION",
@@ -1606,12 +1585,11 @@
 		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2020)/PHS2000B - Problem Set 3/ps3_2020.Rmd",
 		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 3 - Interaction and Medidation/ps3_2020.Rmd",
 		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 3 - Interaction and Medidation/ps2_2020.Rmd",
-		"/Users/matthewlee/Desktop/Flip or Not Flip/flip-or-not-flip.Rnw",
-		"/Users/matthewlee/Desktop/Timestamps 2:4:21.txt"
+		"/Users/matthewlee/Desktop/Flip or Not Flip/flip-or-not-flip.Rnw"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -1652,18 +1630,19 @@
 				{
 					"buffer": 0,
 					"file": ".gitignore",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 57,
+						"buffer_size": 66,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								57,
-								57
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1706,36 +1685,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1756,11 +1715,31 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_uri": "file:///Users/matthewlee/mmlee/.gitignore",
@@ -1770,140 +1749,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "config.toml",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 480,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": "\\",
-									"selector": "text.tex.latex"
-								}
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"git_gutter_is_enabled": true,
-							"lsp_uri": "file:///Users/matthewlee/mmlee/config.toml",
-							"syntax": "Packages/TOML/TOML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1732.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "themes/hugo-apero/layouts/partials/head.html",
 					"semi_transient": false,
 					"settings":
@@ -2045,7 +1896,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "themes/hugo-apero/layouts/partials/meta.html",
 					"semi_transient": true,
 					"settings":
@@ -2116,36 +1967,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -2166,11 +1997,31 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_uri": "file:///Users/matthewlee/mmlee/themes/hugo-apero/layouts/partials/meta.html",
@@ -2187,7 +2038,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
@@ -2524,7 +2375,7 @@
 							{
 								"changes": 18,
 								"count": 4292,
-								"modified": false,
+								"modified": true,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
@@ -2655,7 +2506,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -2744,7 +2595,7 @@
 	"project": "mmlee_site.sublime-project",
 	"replace":
 	{
-		"height": 74.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
