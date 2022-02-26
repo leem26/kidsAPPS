@@ -16,7 +16,7 @@ title: About the study team
 #   url: https://github.com/apreshill/bakeoff
 ---
 
-<!-- Becky -->
+<!-- Erica -->
 
 <div style="width: 130%; height: 400%">
 <div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
@@ -121,3 +121,27 @@ Kristine is an MPH candidate in the Department of Nutrition at the Harvard T.H. 
 Matt is a PhD student in the Population Health Sciences program at the Harvard University T.H. Chan School of Public Health, in the Department of Nutrition. His research is focused on evaluating existing and potential nutrition policies and program that are poised to reduce cardiometabolic disease, and works as a data analyst on the Kids APPS team. Prior to joining the team at Harvard, Matt completed a Master of Science degree in Epidemiology as well as a Bachelor of Arts in Public Health at the University of California, Berkeley. When he isn’t knee-deep in R code or any ongoing data analysis, Matt enjoys playing the oboe/English horn with the Longwood Symphony Orchestra, trying to find the sunniest of hikes, and making (and eating) new foods.
 </div>
 </div>
+
+<br>
+<br><br><br>
+
+<!-- Sophia -->
+
+<div style="width: 130%;">
+<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
+
+<img src="/img/headshot-shua.png"/>
+</div>
+<div style="margin-left: 10%; height: 400%; "> 
+<br>
+<span style="font-family:Metropolis-SB">Sophia Hua, MPH</span>
+
+<br>
+
+Sophia Hua is a PhD candidate in Population Health Sciences at the Harvard T. H. Chan School of Public Health. Her research interests lie in obesity prevention and nutrition policy. Before coming to Harvard, she worked as a project coordinator at the University of Pennsylvania, where she primarily focused on a menu label messaging study and evaluating the impact of the Philadelphia beverage tax. She received her B.S. in psychology and her M.P.H. in social and behavioral sciences from Yale University.
+
+</div>
+</div>
+
+<br>
+<br><br><br>
