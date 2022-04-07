@@ -131,6 +131,7 @@ Matt is a PhD student in the Population Health Sciences program at the Harvard U
 <div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
 
 <img src="/img/headshot-shua.png"/>
+
 </div>
 <div style="margin-left: 10%; height: 400%; "> 
 <br>
@@ -145,3 +146,29 @@ Sophia Hua is a PhD candidate in Population Health Sciences at the Harvard T. H.
 
 <br>
 <br><br><br>
+
+<!-- Muksha -->
+
+<div style="width: 130%;">
+<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
+<br><br><br><br>
+<img src="/img/headshot-jingree.png"/>
+<br><br><br><br><br><br>
+</div>
+<div style="margin-left: 10%; height: 400%; "> 
+<br>
+<span style="font-family:Metropolis-SB">Muksha L. Jingree, MPH</span>
+
+<br>
+
+Muksha L. Jingree holds a Master’s in Public Health in Nutrition from Harvard T.H Chan School of Public Health. She is originally from Mauritius and her early exposure to non-communicable diseases in her country has boosted Muksha’s interest in public health nutrition. Muksha is a Research Assistant on the KIDS APPS project which aims to examine changes in beverage availability and targeted marketing associated with the Philadelphia beverage tax. Prior to Harvard, she was a Clinical Research Coordinator at Memorial Sloan Kettering Cancer Center where she was involved in a community-based research program aimed at improving the health of New York City taxi drivers. She has a bachelor’s degree in Nutrition and Dietetics from New York University and is interested in diabetes prevention and management through nutrition interventions. During her time at Harvard Chan, Muksha was a Harvard-Mississippi Delta Fellow where she assisted in the development of the second phase of a Blueprint to improve the health and nutritional outcomes of Mississippi’s children in schools. Muksha speaks English, French, Mauritian Creole, Hindi and Bhojpuri, and enjoys cooking, reading and yoga in her spare time.
+
+</div>
+</div>
+
+<br>
+<br><br><br>
+
+
+
+ 
