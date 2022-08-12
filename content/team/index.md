@@ -52,6 +52,25 @@ Becky earned her Master of Science degree in Food Policy and Applied Nutrition f
 
 <br><br><br>
 
+<!-- Elizabeth -->
+
+<div style="width: 130%;">
+<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
+<br>
+<img src="/img/headshot-egunner.png"/>
+</div>
+<div style="margin-left: 10%; height: 400%; "> 
+<span style="font-family:Metropolis-SB">Elizabeth Gunner, RDN</span>
+
+Elizabeth is an MPH candidate in the Nutrition Department at Harvard T.H. Chan School of Public Health. She is a Research Assistant with the Kids APPS project.
+
+Prior to working with the Kids APPS project, Elizabeth has geared her professional focus thus far toward creating an accessible, accurate, and inclusive health and wellness environment for all, working as a Registered Dietitian (RD/ RDN) in New York. During her professional career, Elizabeth has worked in a clinical setting as a Nutrition Care Manager, in the media as a Nutrition Communication Consultant, and in a start-up company as a Registered Dietitian providing one on one nutrition counseling via Telehealth. In her free time, Elizabeth also enjoys creative outlets such as art, interior design, poetry, and music.
+</div>
+</div>
+
+<br><br><br>
+
+
 <!-- Jasmine -->
 
 <div style="width: 130%;">
@@ -70,42 +89,6 @@ In 2017 Jasmine received her registration status as a dietitian in California, t
 
 <br><br><br>
 
-<!-- Kate -->
-
-<div style="width: 130%;">
-<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
-
-<img src="/img/headshot-kadams.png"/>
-</div>
-<div style="margin-left: 10%; height: 400%; "> 
-<span style="font-family:Metropolis-SB">Kate Adams</span>
-
-Kate is a Master's of Public Health student in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. As a Research Assistant on the KIDS APPS project, she helps develop research protocols, supports parents in completing the research tasks, and assesses advertising on mobile devices.
-
-Before starting her master’s degree, Kate worked on subsidy contracts and food programs in early childhood education centers around Boston. Kate's interests revolve around food insecurity, sustainable sourcing and food waste strategy, and the food & beverage industry's role in planetary health and nutrition outcomes.
-</div>
-</div>
-
-<br>
-<br><br><br>
-
-<!-- Kristine -->
-
-<div style="width: 130%;">
-<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
-<br><br>
-<img src="/img/headshot-kiross.png"/>
-<br><br><br>
-</div>
-<div style="margin-left: 10%; height: 400%; "> 
-<span style="font-family:Metropolis-SB">Kristine Kiross</span>
-
-Kristine is an MPH candidate in the Department of Nutrition at the Harvard T.H. Chan School of Public Health. She is a Research Assistant on the KIDS APPS project focusing on data collection and assessing advertising on mobile devices. Kristine is from Berkeley, California and earned her bachelor's degree in International Liberal Studies with a concentration in sociology from Waseda University in Tokyo. Prior to starting graduate school, she worked as a marketing manager at a food-tech startup which creates nutritionally complete staple foods. Her areas of interest include maternal, infant and young child nutrition, food policy, nutritional epidemiology, planetary health, and nutrition education. Through her research she plans to develop methods to increase access to healthy foods for underserved populations both nationally and internationally. In her free time, she enjoys singing, dancing, hiking, swimming, and doing yoga.
-</div>
-</div>
-
-<br>
-<br><br><br>
 
 
 <!-- Matt -->
@@ -135,11 +118,11 @@ Matt is a PhD student in the Population Health Sciences program at the Harvard U
 </div>
 <div style="margin-left: 10%; height: 400%; "> 
 <br>
-<span style="font-family:Metropolis-SB">Sophia Hua, MPH</span>
+<span style="font-family:Metropolis-SB">Sophia Hua, PhD</span>
 
 <br>
 
-Sophia Hua is a PhD candidate in Population Health Sciences at the Harvard T. H. Chan School of Public Health. Her research interests lie in obesity prevention and nutrition policy. Before coming to Harvard, she worked as a project coordinator at the University of Pennsylvania, where she primarily focused on a menu label messaging study and evaluating the impact of the Philadelphia beverage tax. She received her B.S. in psychology and her M.P.H. in social and behavioral sciences from Yale University.
+Sophia Hua is a postdoctoral fellow in the Department of Nutrition at the Harvard T. H. Chan School of Public Health. Her research interests lie in obesity prevention and nutrition policy. Before coming to Harvard, she worked as a project coordinator at the University of Pennsylvania, where she primarily focused on a menu label messaging study and evaluating the impact of the Philadelphia beverage tax. She received her B.S. in psychology, her M.P.H. in social and behavioral sciences from Yale University, and her Ph.D in population health sciences from Harvard University.
 
 </div>
 </div>
@@ -147,27 +130,6 @@ Sophia Hua is a PhD candidate in Population Health Sciences at the Harvard T. H.
 <br>
 <br><br><br>
 
-<!-- Muksha -->
-
-<div style="width: 130%;">
-<div style="width: 30%; height: 400%; float: left; margin-right: 5%;"> 
-<br><br><br><br>
-<img src="/img/headshot-jingree.png"/>
-<br><br><br><br><br><br>
-</div>
-<div style="margin-left: 10%; height: 400%; "> 
-<br>
-<span style="font-family:Metropolis-SB">Muksha L. Jingree, MPH</span>
-
-<br>
-
-Muksha L. Jingree holds a Master’s in Public Health in Nutrition from Harvard T.H Chan School of Public Health. She is originally from Mauritius and her early exposure to non-communicable diseases in her country has boosted Muksha’s interest in public health nutrition. Muksha is a Research Assistant on the KIDS APPS project which aims to examine changes in beverage availability and targeted marketing associated with the Philadelphia beverage tax. Prior to Harvard, she was a Clinical Research Coordinator at Memorial Sloan Kettering Cancer Center where she was involved in a community-based research program aimed at improving the health of New York City taxi drivers. She has a bachelor’s degree in Nutrition and Dietetics from New York University and is interested in diabetes prevention and management through nutrition interventions. During her time at Harvard Chan, Muksha was a Harvard-Mississippi Delta Fellow where she assisted in the development of the second phase of a Blueprint to improve the health and nutritional outcomes of Mississippi’s children in schools. Muksha speaks English, French, Mauritian Creole, Hindi and Bhojpuri, and enjoys cooking, reading and yoga in her spare time.
-
-</div>
-</div>
-
-<br>
-<br><br><br>
 
 
 
