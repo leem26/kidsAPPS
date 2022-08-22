@@ -120,7 +120,7 @@ Matt is a PhD student in the Population Health Sciences program at the Harvard U
 <br>
 <span style="font-family:Metropolis-SB">Meghana Iragavarapu</span>
 
-Meghana Sai Iragavarapu is a recent graduate from Duke University and a Research Assistant with the Kids APPS project. Meghana’s research background is inspired by a belief that “food is medicine,” and spans nutrition science, health behavior change, and digital health interventions.In addition to assisting the Kids APPS project, Meghana works at the Brigham and Women’s Hospital as a research assistant with the Department of Pediatric Newborn Medicine.
+Meghana Sai Iragavarapu is a recent graduate from Duke University and a Research Assistant with the Kids APPS project. Meghana’s research background is inspired by a belief that “food is medicine,” and spans nutrition science, health behavior change, and digital health interventions. In addition to assisting the Kids APPS project, Meghana works at the Brigham and Women’s Hospital as a research assistant with the Department of Pediatric Newborn Medicine.
 </div>
 </div>
 
